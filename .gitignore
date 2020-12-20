@@ -1,0 +1,679 @@
+*.pyc
+.vscode/launch.json
+.vscode/settings.json
+build/radial_bassline/_asyncio.pyd
+build/radial_bassline/_bz2.pyd
+build/radial_bassline/_cffi_backend.cp38-win_amd64.pyd
+build/radial_bassline/_ctypes.pyd
+build/radial_bassline/_decimal.pyd
+build/radial_bassline/_hashlib.pyd
+build/radial_bassline/_lzma.pyd
+build/radial_bassline/_multiprocessing.pyd
+build/radial_bassline/_overlapped.pyd
+build/radial_bassline/_queue.pyd
+build/radial_bassline/_socket.pyd
+build/radial_bassline/_ssl.pyd
+build/radial_bassline/api-ms-win-core-console-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-datetime-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-debug-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-errorhandling-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-file-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-file-l1-2-0.dll
+build/radial_bassline/api-ms-win-core-file-l2-1-0.dll
+build/radial_bassline/api-ms-win-core-handle-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-heap-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-interlocked-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-libraryloader-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-localization-l1-2-0.dll
+build/radial_bassline/api-ms-win-core-memory-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-namedpipe-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-processenvironment-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-processthreads-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-processthreads-l1-1-1.dll
+build/radial_bassline/api-ms-win-core-profile-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-rtlsupport-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-string-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-synch-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-synch-l1-2-0.dll
+build/radial_bassline/api-ms-win-core-sysinfo-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-timezone-l1-1-0.dll
+build/radial_bassline/api-ms-win-core-util-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-conio-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-convert-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-environment-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-filesystem-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-heap-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-locale-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-math-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-multibyte-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-process-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-runtime-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-stdio-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-string-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-time-l1-1-0.dll
+build/radial_bassline/api-ms-win-crt-utility-l1-1-0.dll
+build/radial_bassline/base_library.zip
+build/radial_bassline/freetype.dll
+build/radial_bassline/lib_arpack-.UUYM56TM26ZLP3SG3B64BL3XKPFDMZRY.gfortran-win_amd64.dll
+build/radial_bassline/lib_blas_su.SQIOFXCH2XKTSP4NEFF3WZ3KWEA36RBJ.gfortran-win_amd64.dll
+build/radial_bassline/lib_dop-f2p.MT27WXU45SIAX6ASQY7CWYIOK7BE6F7J.gfortran-win_amd64.dll
+build/radial_bassline/lib_test_fo.JF5HTWMUPBXWGAYEBVEJU3OZAHTSVKCT.gfortran-win_amd64.dll
+build/radial_bassline/libansari.R6EA3HQP5KZ6TAXU4Y4ZVTRPT7UVA53Z.gfortran-win_amd64.dll
+build/radial_bassline/libbanded5x.K3D3RYABWCJCKRJIPTHJX6YYXRANIVDT.gfortran-win_amd64.dll
+build/radial_bassline/libbispeu.7AH3PCQ2E2NGLC3AQD7FFAH73KGJTZCJ.gfortran-win_amd64.dll
+build/radial_bassline/libblkdta00.NL6RI7U2RUD4WXLTMPFWPTZQM4U3MWC5.gfortran-win_amd64.dll
+build/radial_bassline/libchkder.G7WSOGIYYQO3UWFVEZ3PPXCXR53ADVPA.gfortran-win_amd64.dll
+build/radial_bassline/libcobyla2.25EVUSEBAW7VKISARB7LO3UGZPN2HXE3.gfortran-win_amd64.dll
+build/radial_bassline/libcrypto-1_1.dll
+build/radial_bassline/libd_odr.VPACPBUT2OMHGAJJYG5TIX5DVPF2VJ5O.gfortran-win_amd64.dll
+build/radial_bassline/libdcsrch.I2AOPDCXAPDRFNPWY55H5UE7XZSU5CVN.gfortran-win_amd64.dll
+build/radial_bassline/libdet.XRXHW4LE2G2YS2RUSRU2FLW6A5OAXXMS.gfortran-win_amd64.dll
+build/radial_bassline/libdfft.L4EKTBUHZHANTVZDXF4JZX3XSFY53NI2.gfortran-win_amd64.dll
+build/radial_bassline/libdfitpack.LMAPXDO5462XTHNWXJBZFJU252ZVABKI.gfortran-win_amd64.dll
+build/radial_bassline/libdgamln.67I3GAJFMTIMGASTZTNP2GCYVL5S3627.gfortran-win_amd64.dll
+build/radial_bassline/libdqag.FTNCVG554EBPSF2QDC2LFUOBMRTZWE7A.gfortran-win_amd64.dll
+build/radial_bassline/libffi-7.dll
+build/radial_bassline/libgetbreak.RNWSR6VAJY2G6JIQMJVAMOXRSCZF4TEM.gfortran-win_amd64.dll
+build/radial_bassline/liblbfgsb.KF7WEO32GODP45CNEFDMNJMF2FEX4F5H.gfortran-win_amd64.dll
+build/radial_bassline/liblsoda-f2.655TLXIHTAMWOSM2667JMIHN444NFA75.gfortran-win_amd64.dll
+build/radial_bassline/libmvndst.IUWFZM2WSUQ3UTGQHFQ26ATH2A2TIUVI.gfortran-win_amd64.dll
+build/radial_bassline/libnnls.4HUTGAJQTI623WTX372VAIIWXRLC62YU.gfortran-win_amd64.dll
+build/radial_bassline/libopenblas.3HBPCJB5BPQGKWVZAVEBXNNJ2Q2G3TUP.gfortran-win_amd64.dll
+build/radial_bassline/libopenblas.QVLO2T66WEPI7JZ63PS3HMOHFEY472BC.gfortran-win_amd64.dll
+build/radial_bassline/libslsqp_op.RGGN6ZOFD2K47X7YRNDYCM7JFP4AGLER.gfortran-win_amd64.dll
+build/radial_bassline/libspecfun.LQCTHMCYNULEOOGKIO6AGREE6D6V37RU.gfortran-win_amd64.dll
+build/radial_bassline/libssl-1_1.dll
+build/radial_bassline/libvode-f2p.HKJ45GMBFS42YZDW4WRR3JWWFOKNE7R2.gfortran-win_amd64.dll
+build/radial_bassline/libwrap_dum.2MCUL34FLOVSDFZPIADWFZ5I7Z4NES2E.gfortran-win_amd64.dll
+build/radial_bassline/libwrap_dum.B3CJVKCZNBIK45G43MB3OLYH34JAFL3X.gfortran-win_amd64.dll
+build/radial_bassline/msvcp140.dll
+build/radial_bassline/MSVCR120.dll
+build/radial_bassline/pyexpat.pyd
+build/radial_bassline/python38.dll
+build/radial_bassline/radial_bassline.exe
+build/radial_bassline/radial_bassline.exe.manifest
+build/radial_bassline/select.pyd
+build/radial_bassline/ucrtbase.dll
+build/radial_bassline/unicodedata.pyd
+build/radial_bassline/VCRUNTIME140.dll
+build/radial_bassline/Include/pyconfig.h
+build/radial_bassline/llvmlite/binding/llvmlite.dll
+build/radial_bassline/numba/_dispatcher.cp38-win_amd64.pyd
+build/radial_bassline/numba/_dynfunc.cp38-win_amd64.pyd
+build/radial_bassline/numba/_helperlib.cp38-win_amd64.pyd
+build/radial_bassline/numba/mviewbuf.cp38-win_amd64.pyd
+build/radial_bassline/numba/core/runtime/_nrt_python.cp38-win_amd64.pyd
+build/radial_bassline/numba/core/typeconv/_typeconv.cp38-win_amd64.pyd
+build/radial_bassline/numba/cuda/cudadrv/_extras.cp38-win_amd64.pyd
+build/radial_bassline/numba/experimental/jitclass/_box.cp38-win_amd64.pyd
+build/radial_bassline/numba/np/ufunc/_internal.cp38-win_amd64.pyd
+build/radial_bassline/numba/np/ufunc/omppool.cp38-win_amd64.pyd
+build/radial_bassline/numba/np/ufunc/tbbpool.cp38-win_amd64.pyd
+build/radial_bassline/numba/np/ufunc/workqueue.cp38-win_amd64.pyd
+build/radial_bassline/numpy/core/_multiarray_tests.cp38-win_amd64.pyd
+build/radial_bassline/numpy/core/_multiarray_umath.cp38-win_amd64.pyd
+build/radial_bassline/numpy/fft/_pocketfft_internal.cp38-win_amd64.pyd
+build/radial_bassline/numpy/linalg/_umath_linalg.cp38-win_amd64.pyd
+build/radial_bassline/numpy/linalg/lapack_lite.cp38-win_amd64.pyd
+build/radial_bassline/numpy/random/_bounded_integers.cp38-win_amd64.pyd
+build/radial_bassline/numpy/random/_common.cp38-win_amd64.pyd
+build/radial_bassline/numpy/random/_generator.cp38-win_amd64.pyd
+build/radial_bassline/numpy/random/_mt19937.cp38-win_amd64.pyd
+build/radial_bassline/numpy/random/_pcg64.cp38-win_amd64.pyd
+build/radial_bassline/numpy/random/_philox.cp38-win_amd64.pyd
+build/radial_bassline/numpy/random/_sfc64.cp38-win_amd64.pyd
+build/radial_bassline/numpy/random/bit_generator.cp38-win_amd64.pyd
+build/radial_bassline/numpy/random/mtrand.cp38-win_amd64.pyd
+build/radial_bassline/scipy/_lib/_ccallback_c.cp38-win_amd64.pyd
+build/radial_bassline/scipy/_lib/_fpumode.cp38-win_amd64.pyd
+build/radial_bassline/scipy/_lib/messagestream.cp38-win_amd64.pyd
+build/radial_bassline/scipy/_lib/_uarray/_uarray.cp38-win_amd64.pyd
+build/radial_bassline/scipy/fft/_pocketfft/pypocketfft.cp38-win_amd64.pyd
+build/radial_bassline/scipy/integrate/_dop.cp38-win_amd64.pyd
+build/radial_bassline/scipy/integrate/_odepack.cp38-win_amd64.pyd
+build/radial_bassline/scipy/integrate/_quadpack.cp38-win_amd64.pyd
+build/radial_bassline/scipy/integrate/lsoda.cp38-win_amd64.pyd
+build/radial_bassline/scipy/integrate/vode.cp38-win_amd64.pyd
+build/radial_bassline/scipy/interpolate/_bspl.cp38-win_amd64.pyd
+build/radial_bassline/scipy/interpolate/_fitpack.cp38-win_amd64.pyd
+build/radial_bassline/scipy/interpolate/_ppoly.cp38-win_amd64.pyd
+build/radial_bassline/scipy/interpolate/dfitpack.cp38-win_amd64.pyd
+build/radial_bassline/scipy/interpolate/interpnd.cp38-win_amd64.pyd
+build/radial_bassline/scipy/linalg/_decomp_update.cp38-win_amd64.pyd
+build/radial_bassline/scipy/linalg/_fblas.cp38-win_amd64.pyd
+build/radial_bassline/scipy/linalg/_flapack.cp38-win_amd64.pyd
+build/radial_bassline/scipy/linalg/_flinalg.cp38-win_amd64.pyd
+build/radial_bassline/scipy/linalg/_solve_toeplitz.cp38-win_amd64.pyd
+build/radial_bassline/scipy/linalg/cython_blas.cp38-win_amd64.pyd
+build/radial_bassline/scipy/linalg/cython_lapack.cp38-win_amd64.pyd
+build/radial_bassline/scipy/ndimage/_nd_image.cp38-win_amd64.pyd
+build/radial_bassline/scipy/ndimage/_ni_label.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/__nnls.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/_bglu_dense.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/_cobyla.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/_group_columns.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/_lbfgsb.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/_lsap_module.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/_minpack.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/_slsqp.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/_zeros.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/minpack2.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/moduleTNC.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/_lsq/givens_elimination.cp38-win_amd64.pyd
+build/radial_bassline/scipy/optimize/_trlib/_trlib.cp38-win_amd64.pyd
+build/radial_bassline/scipy/signal/_max_len_seq_inner.cp38-win_amd64.pyd
+build/radial_bassline/scipy/signal/_peak_finding_utils.cp38-win_amd64.pyd
+build/radial_bassline/scipy/signal/_sosfilt.cp38-win_amd64.pyd
+build/radial_bassline/scipy/signal/_spectral.cp38-win_amd64.pyd
+build/radial_bassline/scipy/signal/_upfirdn_apply.cp38-win_amd64.pyd
+build/radial_bassline/scipy/signal/sigtools.cp38-win_amd64.pyd
+build/radial_bassline/scipy/signal/spline.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/_csparsetools.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/_sparsetools.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/csgraph/_flow.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/csgraph/_matching.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/csgraph/_min_spanning_tree.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/csgraph/_reordering.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/csgraph/_shortest_path.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/csgraph/_tools.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/csgraph/_traversal.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/linalg/dsolve/_superlu.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/linalg/eigen/arpack/_arpack.cp38-win_amd64.pyd
+build/radial_bassline/scipy/sparse/linalg/isolve/_iterative.cp38-win_amd64.pyd
+build/radial_bassline/scipy/spatial/_distance_wrap.cp38-win_amd64.pyd
+build/radial_bassline/scipy/spatial/_hausdorff.cp38-win_amd64.pyd
+build/radial_bassline/scipy/spatial/_voronoi.cp38-win_amd64.pyd
+build/radial_bassline/scipy/spatial/ckdtree.cp38-win_amd64.pyd
+build/radial_bassline/scipy/spatial/qhull.cp38-win_amd64.pyd
+build/radial_bassline/scipy/special/_comb.cp38-win_amd64.pyd
+build/radial_bassline/scipy/special/_ellip_harm_2.cp38-win_amd64.pyd
+build/radial_bassline/scipy/special/_ufuncs_cxx.cp38-win_amd64.pyd
+build/radial_bassline/scipy/special/_ufuncs.cp38-win_amd64.pyd
+build/radial_bassline/scipy/special/cython_special.cp38-win_amd64.pyd
+build/radial_bassline/scipy/special/specfun.cp38-win_amd64.pyd
+build/radial_bassline/scipy/stats/_stats.cp38-win_amd64.pyd
+build/radial_bassline/scipy/stats/mvn.cp38-win_amd64.pyd
+build/radial_bassline/scipy/stats/statlib.cp38-win_amd64.pyd
+build/radial_bassline/soundcard/coreaudio.py.h
+build/radial_bassline/soundcard/mediafoundation.py.h
+build/radial_bassline/soundcard/pulseaudio.py.h
+build/radial_bassline/vispy/visuals/text/_sdf_cpu.cp38-win_amd64.pyd
+output/radial_bassline.zip
+output/visualiser_start.bat
+output/radial_bassline/_asyncio.pyd
+output/radial_bassline/_bz2.pyd
+output/radial_bassline/_cffi_backend.cp38-win_amd64.pyd
+output/radial_bassline/_ctypes.pyd
+output/radial_bassline/_decimal.pyd
+output/radial_bassline/_hashlib.pyd
+output/radial_bassline/_lzma.pyd
+output/radial_bassline/_multiprocessing.pyd
+output/radial_bassline/_overlapped.pyd
+output/radial_bassline/_queue.pyd
+output/radial_bassline/_socket.pyd
+output/radial_bassline/_ssl.pyd
+output/radial_bassline/api-ms-win-core-console-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-datetime-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-debug-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-errorhandling-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-file-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-file-l1-2-0.dll
+output/radial_bassline/api-ms-win-core-file-l2-1-0.dll
+output/radial_bassline/api-ms-win-core-handle-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-heap-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-interlocked-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-libraryloader-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-localization-l1-2-0.dll
+output/radial_bassline/api-ms-win-core-memory-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-namedpipe-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-processenvironment-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-processthreads-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-processthreads-l1-1-1.dll
+output/radial_bassline/api-ms-win-core-profile-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-rtlsupport-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-string-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-synch-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-synch-l1-2-0.dll
+output/radial_bassline/api-ms-win-core-sysinfo-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-timezone-l1-1-0.dll
+output/radial_bassline/api-ms-win-core-util-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-conio-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-convert-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-environment-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-filesystem-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-heap-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-locale-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-math-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-multibyte-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-process-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-runtime-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-stdio-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-string-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-time-l1-1-0.dll
+output/radial_bassline/api-ms-win-crt-utility-l1-1-0.dll
+output/radial_bassline/base_library.zip
+output/radial_bassline/d3dcompiler_47.dll
+output/radial_bassline/freetype.dll
+output/radial_bassline/lib_arpack-.UUYM56TM26ZLP3SG3B64BL3XKPFDMZRY.gfortran-win_amd64.dll
+output/radial_bassline/lib_blas_su.SQIOFXCH2XKTSP4NEFF3WZ3KWEA36RBJ.gfortran-win_amd64.dll
+output/radial_bassline/lib_dop-f2p.MT27WXU45SIAX6ASQY7CWYIOK7BE6F7J.gfortran-win_amd64.dll
+output/radial_bassline/lib_test_fo.JF5HTWMUPBXWGAYEBVEJU3OZAHTSVKCT.gfortran-win_amd64.dll
+output/radial_bassline/libansari.R6EA3HQP5KZ6TAXU4Y4ZVTRPT7UVA53Z.gfortran-win_amd64.dll
+output/radial_bassline/libbanded5x.K3D3RYABWCJCKRJIPTHJX6YYXRANIVDT.gfortran-win_amd64.dll
+output/radial_bassline/libbispeu.7AH3PCQ2E2NGLC3AQD7FFAH73KGJTZCJ.gfortran-win_amd64.dll
+output/radial_bassline/libblkdta00.NL6RI7U2RUD4WXLTMPFWPTZQM4U3MWC5.gfortran-win_amd64.dll
+output/radial_bassline/libchkder.G7WSOGIYYQO3UWFVEZ3PPXCXR53ADVPA.gfortran-win_amd64.dll
+output/radial_bassline/libcobyla2.25EVUSEBAW7VKISARB7LO3UGZPN2HXE3.gfortran-win_amd64.dll
+output/radial_bassline/libcrypto-1_1.dll
+output/radial_bassline/libd_odr.VPACPBUT2OMHGAJJYG5TIX5DVPF2VJ5O.gfortran-win_amd64.dll
+output/radial_bassline/libdcsrch.I2AOPDCXAPDRFNPWY55H5UE7XZSU5CVN.gfortran-win_amd64.dll
+output/radial_bassline/libdet.XRXHW4LE2G2YS2RUSRU2FLW6A5OAXXMS.gfortran-win_amd64.dll
+output/radial_bassline/libdfft.L4EKTBUHZHANTVZDXF4JZX3XSFY53NI2.gfortran-win_amd64.dll
+output/radial_bassline/libdfitpack.LMAPXDO5462XTHNWXJBZFJU252ZVABKI.gfortran-win_amd64.dll
+output/radial_bassline/libdgamln.67I3GAJFMTIMGASTZTNP2GCYVL5S3627.gfortran-win_amd64.dll
+output/radial_bassline/libdqag.FTNCVG554EBPSF2QDC2LFUOBMRTZWE7A.gfortran-win_amd64.dll
+output/radial_bassline/libEGL.dll
+output/radial_bassline/libffi-7.dll
+output/radial_bassline/libgetbreak.RNWSR6VAJY2G6JIQMJVAMOXRSCZF4TEM.gfortran-win_amd64.dll
+output/radial_bassline/libGLESv2.dll
+output/radial_bassline/liblbfgsb.KF7WEO32GODP45CNEFDMNJMF2FEX4F5H.gfortran-win_amd64.dll
+output/radial_bassline/liblsoda-f2.655TLXIHTAMWOSM2667JMIHN444NFA75.gfortran-win_amd64.dll
+output/radial_bassline/libmvndst.IUWFZM2WSUQ3UTGQHFQ26ATH2A2TIUVI.gfortran-win_amd64.dll
+output/radial_bassline/libnnls.4HUTGAJQTI623WTX372VAIIWXRLC62YU.gfortran-win_amd64.dll
+output/radial_bassline/libopenblas.3HBPCJB5BPQGKWVZAVEBXNNJ2Q2G3TUP.gfortran-win_amd64.dll
+output/radial_bassline/libopenblas.QVLO2T66WEPI7JZ63PS3HMOHFEY472BC.gfortran-win_amd64.dll
+output/radial_bassline/libslsqp_op.RGGN6ZOFD2K47X7YRNDYCM7JFP4AGLER.gfortran-win_amd64.dll
+output/radial_bassline/libspecfun.LQCTHMCYNULEOOGKIO6AGREE6D6V37RU.gfortran-win_amd64.dll
+output/radial_bassline/libssl-1_1.dll
+output/radial_bassline/libvode-f2p.HKJ45GMBFS42YZDW4WRR3JWWFOKNE7R2.gfortran-win_amd64.dll
+output/radial_bassline/libwrap_dum.2MCUL34FLOVSDFZPIADWFZ5I7Z4NES2E.gfortran-win_amd64.dll
+output/radial_bassline/libwrap_dum.B3CJVKCZNBIK45G43MB3OLYH34JAFL3X.gfortran-win_amd64.dll
+output/radial_bassline/MSVCP140_1.dll
+output/radial_bassline/msvcp140.dll
+output/radial_bassline/MSVCR120.dll
+output/radial_bassline/opengl32sw.dll
+output/radial_bassline/pyexpat.pyd
+output/radial_bassline/python3.dll
+output/radial_bassline/python38.dll
+output/radial_bassline/Qt5Core.dll
+output/radial_bassline/Qt5DBus.dll
+output/radial_bassline/Qt5Gui.dll
+output/radial_bassline/Qt5Network.dll
+output/radial_bassline/Qt5OpenGL.dll
+output/radial_bassline/Qt5Qml.dll
+output/radial_bassline/Qt5QmlModels.dll
+output/radial_bassline/Qt5Quick.dll
+output/radial_bassline/Qt5Svg.dll
+output/radial_bassline/Qt5Test.dll
+output/radial_bassline/Qt5WebSockets.dll
+output/radial_bassline/Qt5Widgets.dll
+output/radial_bassline/radial_bassline.exe
+output/radial_bassline/radial_bassline.exe.manifest
+output/radial_bassline/select.pyd
+output/radial_bassline/ucrtbase.dll
+output/radial_bassline/unicodedata.pyd
+output/radial_bassline/VCRUNTIME140_1.dll
+output/radial_bassline/VCRUNTIME140.dll
+output/radial_bassline/Include/pyconfig.h
+output/radial_bassline/PyQt5/QtCore.pyd
+output/radial_bassline/PyQt5/QtGui.pyd
+output/radial_bassline/PyQt5/QtOpenGL.pyd
+output/radial_bassline/PyQt5/QtTest.pyd
+output/radial_bassline/PyQt5/QtWidgets.pyd
+output/radial_bassline/PyQt5/sip.cp38-win_amd64.pyd
+output/radial_bassline/PyQt5/Qt/plugins/iconengines/qsvgicon.dll
+output/radial_bassline/PyQt5/Qt/plugins/imageformats/qgif.dll
+output/radial_bassline/PyQt5/Qt/plugins/imageformats/qicns.dll
+output/radial_bassline/PyQt5/Qt/plugins/imageformats/qico.dll
+output/radial_bassline/PyQt5/Qt/plugins/imageformats/qjpeg.dll
+output/radial_bassline/PyQt5/Qt/plugins/imageformats/qsvg.dll
+output/radial_bassline/PyQt5/Qt/plugins/imageformats/qtga.dll
+output/radial_bassline/PyQt5/Qt/plugins/imageformats/qtiff.dll
+output/radial_bassline/PyQt5/Qt/plugins/imageformats/qwbmp.dll
+output/radial_bassline/PyQt5/Qt/plugins/imageformats/qwebp.dll
+output/radial_bassline/PyQt5/Qt/plugins/platforms/qminimal.dll
+output/radial_bassline/PyQt5/Qt/plugins/platforms/qoffscreen.dll
+output/radial_bassline/PyQt5/Qt/plugins/platforms/qwebgl.dll
+output/radial_bassline/PyQt5/Qt/plugins/platforms/qwindows.dll
+output/radial_bassline/PyQt5/Qt/plugins/platformthemes/qxdgdesktopportal.dll
+output/radial_bassline/PyQt5/Qt/plugins/styles/qwindowsvistastyle.dll
+output/radial_bassline/PyQt5/Qt/translations/qtbase_ar.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_bg.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_ca.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_cs.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_da.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_de.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_en.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_es.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_fi.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_fr.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_gd.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_he.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_hu.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_it.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_ja.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_ko.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_lv.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_pl.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_ru.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_sk.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_tr.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_uk.qm
+output/radial_bassline/PyQt5/Qt/translations/qtbase_zh_TW.qm
+output/radial_bassline/_soundfile_data/COPYING
+output/radial_bassline/_soundfile_data/libsndfile64bit.dll
+output/radial_bassline/certifi/cacert.pem
+output/radial_bassline/llvmlite/binding/llvmlite.dll
+output/radial_bassline/numba/_dispatcher.cp38-win_amd64.pyd
+output/radial_bassline/numba/_dynfunc.cp38-win_amd64.pyd
+output/radial_bassline/numba/_helperlib.cp38-win_amd64.pyd
+output/radial_bassline/numba/mviewbuf.cp38-win_amd64.pyd
+output/radial_bassline/numba/core/runtime/_nrt_python.cp38-win_amd64.pyd
+output/radial_bassline/numba/core/typeconv/_typeconv.cp38-win_amd64.pyd
+output/radial_bassline/numba/cuda/cudadrv/_extras.cp38-win_amd64.pyd
+output/radial_bassline/numba/experimental/jitclass/_box.cp38-win_amd64.pyd
+output/radial_bassline/numba/np/ufunc/_internal.cp38-win_amd64.pyd
+output/radial_bassline/numba/np/ufunc/omppool.cp38-win_amd64.pyd
+output/radial_bassline/numba/np/ufunc/tbbpool.cp38-win_amd64.pyd
+output/radial_bassline/numba/np/ufunc/workqueue.cp38-win_amd64.pyd
+output/radial_bassline/numpy/core/_multiarray_tests.cp38-win_amd64.pyd
+output/radial_bassline/numpy/core/_multiarray_umath.cp38-win_amd64.pyd
+output/radial_bassline/numpy/fft/_pocketfft_internal.cp38-win_amd64.pyd
+output/radial_bassline/numpy/linalg/_umath_linalg.cp38-win_amd64.pyd
+output/radial_bassline/numpy/linalg/lapack_lite.cp38-win_amd64.pyd
+output/radial_bassline/numpy/random/_bounded_integers.cp38-win_amd64.pyd
+output/radial_bassline/numpy/random/_common.cp38-win_amd64.pyd
+output/radial_bassline/numpy/random/_generator.cp38-win_amd64.pyd
+output/radial_bassline/numpy/random/_mt19937.cp38-win_amd64.pyd
+output/radial_bassline/numpy/random/_pcg64.cp38-win_amd64.pyd
+output/radial_bassline/numpy/random/_philox.cp38-win_amd64.pyd
+output/radial_bassline/numpy/random/_sfc64.cp38-win_amd64.pyd
+output/radial_bassline/numpy/random/bit_generator.cp38-win_amd64.pyd
+output/radial_bassline/numpy/random/mtrand.cp38-win_amd64.pyd
+output/radial_bassline/resampy/data/kaiser_best.npz
+output/radial_bassline/resampy/data/kaiser_fast.npz
+output/radial_bassline/scipy/_lib/_ccallback_c.cp38-win_amd64.pyd
+output/radial_bassline/scipy/_lib/_fpumode.cp38-win_amd64.pyd
+output/radial_bassline/scipy/_lib/messagestream.cp38-win_amd64.pyd
+output/radial_bassline/scipy/_lib/_uarray/_uarray.cp38-win_amd64.pyd
+output/radial_bassline/scipy/fft/_pocketfft/pypocketfft.cp38-win_amd64.pyd
+output/radial_bassline/scipy/fftpack/convolve.cp38-win_amd64.pyd
+output/radial_bassline/scipy/integrate/_dop.cp38-win_amd64.pyd
+output/radial_bassline/scipy/integrate/_odepack.cp38-win_amd64.pyd
+output/radial_bassline/scipy/integrate/_quadpack.cp38-win_amd64.pyd
+output/radial_bassline/scipy/integrate/lsoda.cp38-win_amd64.pyd
+output/radial_bassline/scipy/integrate/vode.cp38-win_amd64.pyd
+output/radial_bassline/scipy/interpolate/_bspl.cp38-win_amd64.pyd
+output/radial_bassline/scipy/interpolate/_fitpack.cp38-win_amd64.pyd
+output/radial_bassline/scipy/interpolate/_ppoly.cp38-win_amd64.pyd
+output/radial_bassline/scipy/interpolate/dfitpack.cp38-win_amd64.pyd
+output/radial_bassline/scipy/interpolate/interpnd.cp38-win_amd64.pyd
+output/radial_bassline/scipy/linalg/_decomp_update.cp38-win_amd64.pyd
+output/radial_bassline/scipy/linalg/_fblas.cp38-win_amd64.pyd
+output/radial_bassline/scipy/linalg/_flapack.cp38-win_amd64.pyd
+output/radial_bassline/scipy/linalg/_flinalg.cp38-win_amd64.pyd
+output/radial_bassline/scipy/linalg/_solve_toeplitz.cp38-win_amd64.pyd
+output/radial_bassline/scipy/linalg/cython_blas.cp38-win_amd64.pyd
+output/radial_bassline/scipy/linalg/cython_lapack.cp38-win_amd64.pyd
+output/radial_bassline/scipy/ndimage/_nd_image.cp38-win_amd64.pyd
+output/radial_bassline/scipy/ndimage/_ni_label.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/__nnls.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/_bglu_dense.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/_cobyla.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/_group_columns.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/_lbfgsb.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/_lsap_module.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/_minpack.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/_slsqp.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/_zeros.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/minpack2.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/moduleTNC.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/_lsq/givens_elimination.cp38-win_amd64.pyd
+output/radial_bassline/scipy/optimize/_trlib/_trlib.cp38-win_amd64.pyd
+output/radial_bassline/scipy/signal/_max_len_seq_inner.cp38-win_amd64.pyd
+output/radial_bassline/scipy/signal/_peak_finding_utils.cp38-win_amd64.pyd
+output/radial_bassline/scipy/signal/_sosfilt.cp38-win_amd64.pyd
+output/radial_bassline/scipy/signal/_spectral.cp38-win_amd64.pyd
+output/radial_bassline/scipy/signal/_upfirdn_apply.cp38-win_amd64.pyd
+output/radial_bassline/scipy/signal/sigtools.cp38-win_amd64.pyd
+output/radial_bassline/scipy/signal/spline.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/_csparsetools.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/_sparsetools.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/csgraph/_flow.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/csgraph/_matching.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/csgraph/_min_spanning_tree.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/csgraph/_reordering.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/csgraph/_shortest_path.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/csgraph/_tools.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/csgraph/_traversal.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/linalg/dsolve/_superlu.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/linalg/eigen/arpack/_arpack.cp38-win_amd64.pyd
+output/radial_bassline/scipy/sparse/linalg/isolve/_iterative.cp38-win_amd64.pyd
+output/radial_bassline/scipy/spatial/_distance_wrap.cp38-win_amd64.pyd
+output/radial_bassline/scipy/spatial/_hausdorff.cp38-win_amd64.pyd
+output/radial_bassline/scipy/spatial/_voronoi.cp38-win_amd64.pyd
+output/radial_bassline/scipy/spatial/ckdtree.cp38-win_amd64.pyd
+output/radial_bassline/scipy/spatial/qhull.cp38-win_amd64.pyd
+output/radial_bassline/scipy/special/_comb.cp38-win_amd64.pyd
+output/radial_bassline/scipy/special/_ellip_harm_2.cp38-win_amd64.pyd
+output/radial_bassline/scipy/special/_ufuncs_cxx.cp38-win_amd64.pyd
+output/radial_bassline/scipy/special/_ufuncs.cp38-win_amd64.pyd
+output/radial_bassline/scipy/special/cython_special.cp38-win_amd64.pyd
+output/radial_bassline/scipy/special/specfun.cp38-win_amd64.pyd
+output/radial_bassline/scipy/stats/_stats.cp38-win_amd64.pyd
+output/radial_bassline/scipy/stats/mvn.cp38-win_amd64.pyd
+output/radial_bassline/scipy/stats/statlib.cp38-win_amd64.pyd
+output/radial_bassline/soundcard/coreaudio.py.h
+output/radial_bassline/soundcard/mediafoundation.py.h
+output/radial_bassline/soundcard/pulseaudio.py.h
+output/radial_bassline/vispy/visuals/text/_sdf_cpu.cp38-win_amd64.pyd
+output/radial_bassline/waveworks/sinks/display/polar_frag.glsl
+output/radial_bassline/waveworks/sinks/display/polar_vertex.glsl
+research stuff/06_vispy.ipynb
+research stuff/Diagram 2020-10-31 06-42-55.uxf
+research stuff/frag.glsl
+research stuff/high_frequency.py
+research stuff/realtime_signals.py
+research stuff/test
+research stuff/test1.ipynb
+research stuff/testVisualization.py
+research stuff/experiments_old/disclosure_twitch_fragment.npy
+research stuff/experiments_old/hlibrosa test.1.py
+research stuff/experiments_old/hlibrosa test.py
+research stuff/experiments_old/spectro_generator.py
+research stuff/experiments_old/spectro_vis.py
+research stuff/experiments_old/spectro.py
+research stuff/vispy_circle/frag.glsl
+research stuff/vispy_circle/vertex.glsl
+research stuff/vispy_circle/vispy_test.py
+research stuff/vispy_examples/basics/gloo/animate_images_slice.py
+research stuff/vispy_examples/basics/gloo/animate_images.py
+research stuff/vispy_examples/basics/gloo/animate_shape.py
+research stuff/vispy_examples/basics/gloo/display_lines.py
+research stuff/vispy_examples/basics/gloo/display_points.py
+research stuff/vispy_examples/basics/gloo/display_shape.py
+research stuff/vispy_examples/basics/gloo/geometry_shader.py
+research stuff/vispy_examples/basics/gloo/gpuimage.py
+research stuff/vispy_examples/basics/gloo/hello_fbo.py
+research stuff/vispy_examples/basics/gloo/multi_texture.py
+research stuff/vispy_examples/basics/gloo/post_processing.py
+research stuff/vispy_examples/basics/gloo/rotate_cube.py
+research stuff/vispy_examples/basics/gloo/spatial_filters.py
+research stuff/vispy_examples/basics/gloo/start_shaders.py
+research stuff/vispy_examples/basics/gloo/start.py
+research stuff/vispy_examples/basics/plotting/colorbar.py
+research stuff/vispy_examples/basics/plotting/export.py
+research stuff/vispy_examples/basics/plotting/grid_basic.py
+research stuff/vispy_examples/basics/plotting/grid_holed.py
+research stuff/vispy_examples/basics/plotting/grid_uneven_col.py
+research stuff/vispy_examples/basics/plotting/grid_x_y_viewbox.py
+research stuff/vispy_examples/basics/plotting/ipython_fig_playground.py
+research stuff/vispy_examples/basics/plotting/plot_colorbars.py
+research stuff/vispy_examples/basics/plotting/plot.py
+research stuff/vispy_examples/basics/plotting/scatter_histogram.py
+research stuff/vispy_examples/basics/plotting/spectrogram.py
+research stuff/vispy_examples/basics/plotting/volume.py
+research stuff/vispy_examples/basics/scene/axes_plot.py
+research stuff/vispy_examples/basics/scene/background_borders.py
+research stuff/vispy_examples/basics/scene/colorbar_widget.py
+research stuff/vispy_examples/basics/scene/colored_line.py
+research stuff/vispy_examples/basics/scene/console.py
+research stuff/vispy_examples/basics/scene/contour.py
+research stuff/vispy_examples/basics/scene/flipped_axis.py
+research stuff/vispy_examples/basics/scene/graph.py
+research stuff/vispy_examples/basics/scene/grid_large.py
+research stuff/vispy_examples/basics/scene/grid.py
+research stuff/vispy_examples/basics/scene/image.py
+research stuff/vispy_examples/basics/scene/infinite_line.py
+research stuff/vispy_examples/basics/scene/isocurve_for_trisurface_qt.py
+research stuff/vispy_examples/basics/scene/isocurve_for_trisurface.py
+research stuff/vispy_examples/basics/scene/isocurve_updates.py
+research stuff/vispy_examples/basics/scene/isocurve.py
+research stuff/vispy_examples/basics/scene/isosurface.py
+research stuff/vispy_examples/basics/scene/line_update.py
+research stuff/vispy_examples/basics/scene/line.py
+research stuff/vispy_examples/basics/scene/linear_region.py
+research stuff/vispy_examples/basics/scene/magnify.py
+research stuff/vispy_examples/basics/scene/mesh_texture.py
+research stuff/vispy_examples/basics/scene/nested_viewbox.py
+research stuff/vispy_examples/basics/scene/one_cam_two_scenes.py
+research stuff/vispy_examples/basics/scene/one_scene_four_cams.py
+research stuff/vispy_examples/basics/scene/point_cloud.py
+research stuff/vispy_examples/basics/scene/polygon.py
+research stuff/vispy_examples/basics/scene/save_animation.py
+research stuff/vispy_examples/basics/scene/sensitivity.py
+research stuff/vispy_examples/basics/scene/shared_context.py
+research stuff/vispy_examples/basics/scene/sphere.py
+research stuff/vispy_examples/basics/scene/stereo.py
+research stuff/vispy_examples/basics/scene/surface_plot.py
+research stuff/vispy_examples/basics/scene/text.py
+research stuff/vispy_examples/basics/scene/turntable_box.py
+research stuff/vispy_examples/basics/scene/viewbox.py
+research stuff/vispy_examples/basics/scene/volume.py
+research stuff/vispy_examples/basics/scene/modular_shaders/editor.py
+research stuff/vispy_examples/basics/scene/modular_shaders/sandbox.py
+research stuff/vispy_examples/basics/visuals/arcball.py
+research stuff/vispy_examples/basics/visuals/arrows_quiver.py
+research stuff/vispy_examples/basics/visuals/arrows.py
+research stuff/vispy_examples/basics/visuals/axially_symmetric_surfaces.py
+research stuff/vispy_examples/basics/visuals/bezier.py
+research stuff/vispy_examples/basics/visuals/box.py
+research stuff/vispy_examples/basics/visuals/colorbar_visual_types.py
+research stuff/vispy_examples/basics/visuals/colorbar_visual.py
+research stuff/vispy_examples/basics/visuals/custom_visual.py
+research stuff/vispy_examples/basics/visuals/dynamic_polygon.py
+research stuff/vispy_examples/basics/visuals/graph.py
+research stuff/vispy_examples/basics/visuals/grid_mesh.py
+research stuff/vispy_examples/basics/visuals/image_transforms.py
+research stuff/vispy_examples/basics/visuals/image_visual.py
+research stuff/vispy_examples/basics/visuals/line_draw.py
+research stuff/vispy_examples/basics/visuals/line_plot_axes.py
+research stuff/vispy_examples/basics/visuals/line_plot.py
+research stuff/vispy_examples/basics/visuals/line_plot3d.py
+research stuff/vispy_examples/basics/visuals/line_prototype.py
+research stuff/vispy_examples/basics/visuals/line_transform.py
+research stuff/vispy_examples/basics/visuals/line.py
+research stuff/vispy_examples/basics/visuals/markers.py
+research stuff/vispy_examples/basics/visuals/mesh.py
+research stuff/vispy_examples/basics/visuals/plane.py
+research stuff/vispy_examples/basics/visuals/polygon_visual.py
+research stuff/vispy_examples/basics/visuals/rescalingmarkers.py
+research stuff/vispy_examples/basics/visuals/rotating_box.py
+research stuff/vispy_examples/basics/visuals/text_scatter.py
+research stuff/vispy_examples/basics/visuals/text_visual.py
+research stuff/vispy_examples/basics/visuals/tube.py
+research stuff/vispy_examples/basics/visuals/visual_filters.py
+research stuff/vispy_examples/basics/visuals/windbarb_quiver.py
+research stuff/vispy_examples/benchmark/scene_test_1.py
+research stuff/vispy_examples/benchmark/scene_test_2.py
+research stuff/vispy_examples/benchmark/simple_glut.py
+research stuff/vispy_examples/benchmark/simple_vispy.py
+research stuff/vispy_examples/collections/chloropleth.py
+research stuff/vispy_examples/collections/path_collection.py
+research stuff/vispy_examples/collections/point_collection.py
+research stuff/vispy_examples/collections/polygon_collection.py
+research stuff/vispy_examples/collections/segment_collection.py
+research stuff/vispy_examples/collections/tiger.py
+research stuff/vispy_examples/collections/triangle_collection.py
+research stuff/vispy_examples/demo/gloo/atom.py
+research stuff/vispy_examples/demo/gloo/boids.py
+research stuff/vispy_examples/demo/gloo/brain.py
+research stuff/vispy_examples/demo/gloo/camera.py
+research stuff/vispy_examples/demo/gloo/cloud.py
+research stuff/vispy_examples/demo/gloo/donut.py
+research stuff/vispy_examples/demo/gloo/fireworks.py
+research stuff/vispy_examples/demo/gloo/galaxy.py
+research stuff/vispy_examples/demo/gloo/game_of_life.py
+research stuff/vispy_examples/demo/gloo/glsl_sandbox_cube.py
+research stuff/vispy_examples/demo/gloo/graph.py
+research stuff/vispy_examples/demo/gloo/grayscott.py
+research stuff/vispy_examples/demo/gloo/high_frequency.py
+research stuff/vispy_examples/demo/gloo/imshow_cuts.py
+research stuff/vispy_examples/demo/gloo/imshow.py
+research stuff/vispy_examples/demo/gloo/mandelbrot_double.py
+research stuff/vispy_examples/demo/gloo/mandelbrot.py
+research stuff/vispy_examples/demo/gloo/molecular_viewer.py
+research stuff/vispy_examples/demo/gloo/ndscatter.py
+research stuff/vispy_examples/demo/gloo/offscreen.py
+research stuff/vispy_examples/demo/gloo/primitive_mesh_viewer_qt.py
+research stuff/vispy_examples/demo/gloo/quiver.py
+research stuff/vispy_examples/demo/gloo/rain.py
+research stuff/vispy_examples/demo/gloo/raytracing.py
+research stuff/vispy_examples/demo/gloo/realtime_signals.py
+research stuff/vispy_examples/demo/gloo/signals.py
+research stuff/vispy_examples/demo/gloo/skybox.py
+research stuff/vispy_examples/demo/gloo/spacy.py
+research stuff/vispy_examples/demo/gloo/terrain.py
+research stuff/vispy_examples/demo/gloo/two_qt_widgets.py
+research stuff/vispy_examples/demo/gloo/unstructured_2d.py
+research stuff/vispy_examples/demo/gloo/voronoi.py
+research stuff/vispy_examples/demo/gloo/galaxy/galaxy_simulation.py
+research stuff/vispy_examples/demo/gloo/galaxy/galaxy_specrend.py
+research stuff/vispy_examples/demo/gloo/galaxy/galaxy.py
+research stuff/vispy_examples/demo/gloo/jfa/fragment_display.glsl
+research stuff/vispy_examples/demo/gloo/jfa/fragment_flood.glsl
+research stuff/vispy_examples/demo/gloo/jfa/fragment_seed.glsl
+research stuff/vispy_examples/demo/gloo/jfa/jfa_translation.py
+research stuff/vispy_examples/demo/gloo/jfa/jfa_vispy.py
+research stuff/vispy_examples/demo/gloo/jfa/vertex_vispy.glsl
+research stuff/vispy_examples/demo/gloo/jfa/vertex.glsl
+research stuff/vispy_examples/demo/plot/plot.py
+research stuff/vispy_examples/demo/scene/flow_lines.py
+research stuff/vispy_examples/demo/scene/force_directed_graph.py
+research stuff/vispy_examples/demo/scene/klein.py
+research stuff/vispy_examples/demo/scene/oscilloscope.py
+research stuff/vispy_examples/demo/scene/picking.py
+research stuff/vispy_examples/demo/scene/scrolling_plots.py
+research stuff/vispy_examples/demo/visuals/wiggly_bar.py
+research stuff/vispy_examples/ipynb/colormaps.ipynb
+research stuff/vispy_examples/ipynb/Rotating Cube.ipynb
+research stuff/vispy_examples/ipynb/webgl_example_1.ipynb
+research stuff/vispy_examples/ipynb/webgl_example_2.ipynb
+research stuff/vispy_examples/offscreen/simple_egl.py
+research stuff/vispy_examples/offscreen/simple_osmesa.py
+research stuff/vispy_examples/tutorial/app/app_events.py
+research stuff/vispy_examples/tutorial/app/fps.py
+research stuff/vispy_examples/tutorial/app/interactive.py
+research stuff/vispy_examples/tutorial/app/shared_context.py
+research stuff/vispy_examples/tutorial/app/simple_wx.py
+research stuff/vispy_examples/tutorial/app/simple.py
+research stuff/vispy_examples/tutorial/gl/cube.py
+research stuff/vispy_examples/tutorial/gl/fireworks.py
+research stuff/vispy_examples/tutorial/gl/quad.py
+research stuff/vispy_examples/tutorial/gloo/colored_cube.py
+research stuff/vispy_examples/tutorial/gloo/colored_quad.py
+research stuff/vispy_examples/tutorial/gloo/lighted_cube.py
+research stuff/vispy_examples/tutorial/gloo/outlined_cube.py
+research stuff/vispy_examples/tutorial/gloo/rotating_quad.py
+research stuff/vispy_examples/tutorial/gloo/texture_precision.py
+research stuff/vispy_examples/tutorial/gloo/textured_cube.py
+research stuff/vispy_examples/tutorial/gloo/textured_quad.py
+research stuff/vispy_examples/tutorial/visuals/T01_basic_visual.py
+research stuff/vispy_examples/tutorial/visuals/T02_measurements.py
+research stuff/vispy_examples/tutorial/visuals/T03_antialiasing.py
+research stuff/vispy_examples/tutorial/visuals/T04_fragment_programs.py
+research stuff/vispy_examples/tutorial/visuals/T05_viewer_location.py
+waveworks.egg-info/dependency_links.txt
+waveworks.egg-info/PKG-INFO
+waveworks.egg-info/SOURCES.txt
+waveworks.egg-info/top_level.txt

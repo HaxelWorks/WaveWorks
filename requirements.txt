@@ -1,0 +1,10 @@
+numpy==1.19.3
+PyQt5 == 5.15.1
+numba
+vispy
+six
+sacn
+soundcard
+scipy
+librosa
+PyOpenGL
