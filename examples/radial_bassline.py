@@ -30,7 +30,7 @@ window_len = len(next(audio_source))
 
 x = np.logspace(1.3, 2.3, 250)  # 10-200Hz
 # x = np.logspace(2.3, 3, 256) # 200-1000Hz
-# x = np.logspace(1, 3, 256) # 200-1000Hz
+
 xp = np.linspace(0, (window_len // 2) - 1, (window_len // 2) + 1)
 
 
@@ -61,8 +61,5 @@ while True:
     dmx_sink.send(colorize(hue,final_values).flatten())
     display_sink(color=hue, samples=final_values)
 
-
-
-   
     next(savgol)
     next(diff)
