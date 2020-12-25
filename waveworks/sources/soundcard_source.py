@@ -7,7 +7,7 @@ import numpy as np
 UPS = 120 #updates per second
 # BLOCKSIZE = 4096
 SAMPLERATE = 48000
-FFT_WINDOW_SIZE = 16384//2
+FFT_WINDOW_SIZE = 8192
 OUTPUT_BUFFER_SIZE =FFT_WINDOW_SIZE
 default_speaker_name = sc.default_speaker().name
 # %%
