@@ -27,6 +27,8 @@ audio_source = audio_generator()
 display_sink = RadialSink()
 wled_sink = WledSink(receiver_ip)
 count = 0
+maximum = 0
+
 
 window = np.kaiser(len(next(audio_source)), 6)
 window_len = len(next(audio_source))
@@ -47,6 +49,8 @@ while True:
     fft = np.real(np.fft.rfft(samples))
 
     bandwidth = spectral_bandwidth(S=np.expand_dims(fft ** 2, 1))[0][0]  # outputs result usually <5
+    if maximum < bandwidth:
+        print("max" + str(maximum := bandwidth))
 
     fft = np.interp(
         x=x,
@@ -54,11 +58,11 @@ while True:
         fp=fft,
     )
 
-    final_values = diff.send(savgol.send((fft / 75) ** 2))
+    final_values = diff.send(savgol.send((fft / 70) ** 2))
     hue = smooth1.send((bandwidth/22))
     if hue is None:
         hue = 0.0
-    # wled_sink.send(colorize2(hue/24,final_values))
+    wled_sink.send(colorize2(hue/24,final_values))
     display_sink(color=hue, samples=final_values)
     display_sink.process_events()
     next(savgol)
