@@ -47,7 +47,10 @@ class RadialSink(app.Canvas):
         app.process_events()
 
     def on_resize(self, event):
-        gloo.set_viewport(0, 0, *event.physical_size)
+        try:
+            gloo.set_viewport(0, 0, *event.physical_size)
+        except:
+            pass
 
     def on_draw(self, event):
         gloo.clear(color=True, depth=True)

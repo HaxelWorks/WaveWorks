@@ -37,7 +37,5 @@ void main()
     vec4 sample = texture1D(samples,d);
     // vec4 sample = texture1D(samples,clamp(d,0,1));
   
-    gl_FragColor = vec4(hueShift(vec3(
-       sample.x,pow(sample.y,8),pow(sample.x,2.5)
-        ),color),1.);
+    gl_FragColor = vec4(hueShift(vec3(sample.x,pow(sample.y,8),pow(sample.x,2.5)),color),1.);
 }
